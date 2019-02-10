@@ -24,6 +24,7 @@ def alphabetize(string):
         abc
 
     """
+    # print("".join(sorted(string.lower())))
     return "".join(sorted(string.lower()))
 
 
